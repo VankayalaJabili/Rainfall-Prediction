@@ -34,7 +34,6 @@ This project aims to predict rainfall based on historical weather data using thr
 |--------------------|----------|
 | Logistic Regression| ~81.0%   |
 | SVM                | ~83.0%   |
-| XGBoost            | ~85.0%   |
 
 ## 🚀 How to Run
 1. Clone this repository:
